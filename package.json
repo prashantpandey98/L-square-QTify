@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/base": "^5.0.0-beta.70",
+    "@mui/material": "^7.1.2",
+    "@mui/system": "^7.1.1",
+    "react-router-dom": "^7.6.3"
+  }
+}
